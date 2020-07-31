@@ -1,0 +1,8 @@
+# this is a test file
+_print = 104097105;
+x = 0;
+goto = 5;
+x = 1;
+_print = 104097105050;
+_raw_print = x;
+x = 1
